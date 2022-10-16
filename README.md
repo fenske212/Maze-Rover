@@ -8,8 +8,8 @@ The team repository for FSE100 Group_7 (FALL 2021)
 
 
 **Team Members:**  
-Mazhar Bilgrami
-Brandon Fenske
-Jasmina Lubovac
-Christopher Stone
-Pranav Appasaheb Zagade
+Mazhar Bilgrami <br />
+Brandon Fenske <br />
+Jasmina Lubovac <br />
+Christopher Stone <br />
+Pranav Appasaheb Zagade <br />
