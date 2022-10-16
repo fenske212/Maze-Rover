@@ -6,7 +6,8 @@ Google Doc https://docs.google.com/document/d/1S0UPeUGIwhoKEy6OMB6eXRdSr0zVDs0cy
 
 The team repository for FSE100 Group_7 (FALL 2021)
 
-Team Members:
+
+**Team Members:**  
 Mazhar Bilgrami
 Brandon Fenske
 Jasmina Lubovac
