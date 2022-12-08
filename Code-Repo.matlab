@@ -1,4 +1,4 @@
-
+% A .m file extension for matlab might be recognized as objective-c file on GitHub, so this is why the extension is matlab.
 
 Project Spyn - Demonstration
 FSE 100: Group_7
