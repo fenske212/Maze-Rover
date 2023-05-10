@@ -1,11 +1,9 @@
 # Project-Spyn
-FSE100 - Lego Mindstorm 3
+Using Lego Mindstorm 3
 
-Program Language : matlab
+a fun robotics team project in a competition for whos rover could deliver the passenger safest, and quickest
+
 Google Doc https://docs.google.com/document/d/1S0UPeUGIwhoKEy6OMB6eXRdSr0zVDs0cySSmg4w6iwM/edit?usp=sharing
-
-The team repository for FSE100 Group_7 (FALL 2021)
-
 
 **Team Members:**  
 Mazhar Bilgrami <br />
