@@ -1,7 +1,7 @@
 # Project-Spyn
 Using Lego Mindstorm 3
 
-fun robotics team project in a competition for whos rover created could deliver the passenger safest, and quickest
+Fun robotics team project in a competition for whos rover created could deliver the passenger safest, and quickest
 
 Google Doc https://docs.google.com/document/d/1S0UPeUGIwhoKEy6OMB6eXRdSr0zVDs0cySSmg4w6iwM/edit?usp=sharing
 
